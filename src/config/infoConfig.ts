@@ -6,16 +6,16 @@ export * from './career'
 export const name = 'Kaitani XU'
 export const headline = 'Student in Jilin University.'
 export const introduction =
-  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu and an alumnus of JLU, UChicago, and Tsinghua. "
+  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu and an alumnus of JLU. "
 export const email = 'None'
-export const githubUsername = 'derekhut'
+export const githubUsername = 'kaitani'
 
 // about page
 export const aboutMeHeadline = 'Who Are You and Why Should I Care?'
 export const aboutParagraphs = [
-  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu and an alumnus of BUPT, UChicago, and Tsinghua. I’ve been teaching Computer Science at SCLS since 2020.",
-  'Currently I am working on a new course called AI Camp, an innovative course where high school students create real-world products and startups while exploring the frontiers of AI.',
-  "I started this blog to share the insights I learn every day. Most blogs focus on education in Artificial Intelligence and general computer science, while others share the life lessons I've learned.",
+  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu . I’ve been  since YearXXXX.",
+  'Currently I am doing something.',
+  "I started this blog to share the insights I learn every day. Most blogs focus on .",
 ]
 
 // blog
