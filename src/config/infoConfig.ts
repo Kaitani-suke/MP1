@@ -6,7 +6,7 @@ export * from './career'
 export const name = 'Kaitani XU'
 export const headline = 'Student in Jilin University.'
 export const introduction =
-  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu and an alumnus of JLU. "
+  "Coucou Les Amis! My name is Kaitani XU. I'm from Jiangsu and a student of JLU. "
 export const email = 'None'
 export const githubUsername = 'kaitani'
 
